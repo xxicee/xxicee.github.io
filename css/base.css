@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto+Slab');
+@import 'contacto.css';
+@import 'envio_formulario.css';
+@import 'inicio.css';
+@import 'quees.css';
+@import 'registro.css';
+@import 'resultado.css';
+@import 'chat.css';
+@import 'json.css';
+
+body {
+    font-family: 'Roboto Slab', serif;
+    background-color: white;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: repeat-y;
+    background-size: 100%;
+}
+
+.header {
+    background-color: #5B9D2D;
+    color: white;
+    margin: 20px 0px 10px 0px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    opacity: 0.75;
+}
+
+a{
+
+  margin: 0px;
+}
+
+.botones {
+
+    text-align: center;
+    margin: 0px 0px 20px 0px;
+    opacity: 0.75;
+}
+
+.nav-tabs {
+    background-color: #5B9D2D;
+    text-align: center;
+    margin: 0px 0px 20px 0px;
+    opacity: 0.75;
+    color: white;
+    border-radius: none!important;
+}
+
+.tab-content {
+    border: none;
+    color: white;
+    border-bottom: none;
+    text-decoration: none;
+}
+
+.nav-tabs>li>a {
+    color: white;
+    border: 10px;
+    border: none !important;
+    border-radius: 0px;
+}
+
+.nav-tabs>li>a:hover {
+
+    border-radius: none;
+    border: none;
+    transition: all 0.1s linear;
+    color: grey;
+}
+.nav-tabs.nav-justified>li>a {
+    margin-right: 0;
+    border-radius: 0px;
+}
+
+.row{
+  color: black;
+  font-family: 'Roboto Slab', serif;
+}
+
+#imagen{
+  text-align: center;
+}

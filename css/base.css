@@ -31,20 +31,20 @@ body {
 a{
 
   margin: 0px;
-  color:  #02897c!important;
+  color:  #00776c!important;
 }
 
 .botones {
 
     text-align: center;
-    margin: 0px 0px 20px 0px;
+    margin: 0px 0px 0px 0px;
     opacity: 0.75;
 }
 
 .nav-tabs {
-    background-color: rgba(46, 179, 171, 0.61);
+    /*background-color: rgba(46, 179, 171, 0.61);*/
     text-align: center;
-    margin: 0px 0px 20px 0px;
+    margin: 0px 0px 0px 0px;
     opacity: 0.75;
     color: white;
     border-radius: none!important;
@@ -74,6 +74,7 @@ a{
 .nav-tabs.nav-justified>li>a {
     margin-right: 0;
     border-radius: 0px;
+    margin-bottom: 0px;
 }
 
 .row{
@@ -98,3 +99,8 @@ a{
     width: 100% !important;
     height: 100% !important;
 }
+
+#barra_inferior{
+  border-bottom: solid;
+  border-width: 1px;
+  border-color: #13a597;

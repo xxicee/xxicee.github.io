@@ -29,7 +29,7 @@
 }
 
 .columna {
-    color: black;
+    color: Grey;
     text-align: justify;
     font-family: 'Roboto Slab', serif;
     margin-bottom: 50px;
@@ -40,7 +40,6 @@
     border-color: white;
     background-color: black;*/
     padding: 10px;
-    opacity: 0.75;
     margin-top: 50px;
 }
 

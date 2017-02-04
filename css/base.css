@@ -9,6 +9,7 @@
 @import 'json.css';
 
 body {
+
     font-family: 'Roboto Slab', serif;
     background-color: white;
     background-repeat: no-repeat;
@@ -104,3 +105,8 @@ a{
   border-bottom: solid;
   border-width: 1px;
   border-color: #13a597;
+}
+
+h1{
+  color:grey;
+}

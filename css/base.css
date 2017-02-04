@@ -21,7 +21,7 @@ body {
 .header {
     background-color: #13a597;
     color: white;
-    margin: 20px 0px 10px 0px;
+    margin: 20px 0px 0px 0px;
     padding-top: 10px;
     padding-bottom: 10px;
     text-align: center;
@@ -31,6 +31,7 @@ body {
 a{
 
   margin: 0px;
+  color:  #02897c!important;
 }
 
 .botones {
@@ -41,7 +42,7 @@ a{
 }
 
 .nav-tabs {
-    background-color: #2eb3ab;
+    background-color: rgba(46, 179, 171, 0.61);
     text-align: center;
     margin: 0px 0px 20px 0px;
     opacity: 0.75;

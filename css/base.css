@@ -110,3 +110,6 @@ a{
 h1{
   color:grey;
 }
+.nav-tabs.nav-justified>.active>a, .nav-tabs.nav-justified>.active>a:focus, .nav-tabs.nav-justified>.active>a:hover{
+  background-color: #eee;
+}

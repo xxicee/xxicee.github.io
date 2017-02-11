@@ -118,3 +118,24 @@ strong{
 
   color:#13a597;
 }
+
+.tabla{
+  border-color: #13a597;
+  color:grey;
+  border-width: 2px;
+  border-style: solid;
+}
+
+#tabla_cabecera{
+  color:white;
+  text-align: center;
+}
+td{
+  padding: 1%;
+}
+
+h3{
+
+  color:grey; 
+
+}

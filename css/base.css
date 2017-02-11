@@ -24,7 +24,7 @@ body {
 a{
 
   margin: 0px;
-  color:  #00776c!important;
+  color:  #13a597!important;
 }
 
 .botones {
@@ -112,4 +112,9 @@ h1{
 }
 .nav-tabs.nav-justified>.active>a, .nav-tabs.nav-justified>.active>a:focus, .nav-tabs.nav-justified>.active>a:hover{
   background-color: #eee;
+}
+
+strong{
+
+  color:#13a597;
 }
